@@ -50,7 +50,7 @@ The goal is to develop an interactive Power BI report and dashboard that extract
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power BI Service (Cloud)
