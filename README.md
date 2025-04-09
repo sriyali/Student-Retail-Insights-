@@ -4,6 +4,7 @@ This Power BI project analyzes student spending behavior across different store 
 Project Description:
 The dataset used in this project, titled “Student Survey”, contains information collected from students across various store locations. Each record represents an individual survey with details on spending amounts, age, store type, and items purchased.
 The goal is to develop an interactive Power BI report and dashboard that extracts meaningful insights, incorporates role-level security, supports scheduled data refresh, and utilizes Power BI’s Q&A feature for natural language queries.
+
 Tasks Performed :
 1.Tabular Visualization
 Created a table to display Total Amount of Purchase (TAP) by Store Location and Store Setting, with conditional formatting:
