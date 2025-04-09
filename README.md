@@ -1,18 +1,14 @@
-#  Student Survey Insights – Power BI Project
+##  Student Survey Insights – Power BI Project
 
 ##  Overview
 
 This Power BI project analyzes student spending behavior across different store settings in the United States. The data reflects how students allocate their purchases among various categories such as video games, sports kits, books, gadgets, and more.
-
----
 
 ##  Project Description
 
 The dataset used in this project, titled **“Student Survey”**, contains information collected from students across various store locations. Each record represents an individual survey with details on spending amounts, age, store type, and items purchased.
 
 The goal is to develop an interactive Power BI report and dashboard that extracts meaningful insights, incorporates role-level security, supports scheduled data refresh, and utilizes Power BI’s Q&A feature for natural language queries.
-
----
 
 ##  Tasks Performed
 
@@ -48,9 +44,7 @@ The goal is to develop an interactive Power BI report and dashboard that extract
      -  **Average age of students**
      -  **Donut chart** showing total purchases by `Store Location`
 
----
-
-##  Tools & Technologies
+ ##  Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power BI Service (Cloud)
